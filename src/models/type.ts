@@ -1,0 +1,1 @@
+export type careType = 'light' | 'water';
